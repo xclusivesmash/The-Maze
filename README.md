@@ -21,4 +21,4 @@
 - Siphamandla Matshiane, ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/Siphamandl76892)
 
 ## LICENSE
-- [ALX Software Engineering Plus](https://tech.alxafrica.com/software-engineering-plus-programme-johannesburg)
+- [MIT License](LICENSE)
